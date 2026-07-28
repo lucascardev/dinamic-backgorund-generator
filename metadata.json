@@ -1,0 +1,6 @@
+{
+  "name": "Interactive People Background",
+  "description": "An interactive, animated SVG crowd background component built with React and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
